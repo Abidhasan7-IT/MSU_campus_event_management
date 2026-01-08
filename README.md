@@ -1,3 +1,3 @@
 For admin login - 
-username- admin
+username- admin |
 password- admin123
